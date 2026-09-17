@@ -24,7 +24,7 @@ Dentro de este repositorio, encontrarás los siguientes recursos:
 
 | Nombre | Redes de Contacto |
 | :--- | :--- |
-| **Matias Rios** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matias-rios-87a86120/) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/matidesarrolla) |
+| **Matias Rios** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiaserios) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/matidesarrolla) |
 | **Sebastian Saban** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-saban-97b21524b)  |
 | **Valentina Diaz Villalba** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-diaz-25778b287)  |
 | **Ezequiel Taboada** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-taboada) |
