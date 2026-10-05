@@ -1,60 +1,47 @@
-<div align="center">
-  <img src="https://github.com/igorezequiel22/Sitio-Web-HTML-CSS/blob/main/sitioweb-ezequiel/imges/logo-desarolloWeb.png?raw=true" alt="logo-desarrollo" width="200"/>
-  
-  <h1>🏫 Universidad Nacional de José C. Paz</h1>
-  <h3>Materia: Desarrollo Web | Tecnicatura Universitaria en Comercio Electrónico</h3>
+<!-- Logo de la materia (hoy está alojado en un repo personal: conviene copiarlo a la organización) --> <img src="https://github.com/igorezequiel22/Sitio-Web-HTML-CSS/blob/main/sitioweb-ezequiel/imges/logo-desarolloWeb.png?raw=true" alt="Logo de la materia Desarrollo Web" width="200"/>
+Desarrollo Web · 2026
+Universidad Nacional de José C. Paz · Tecnicatura Universitaria en Comercio Electrónico
+
+Mostrar imagen Mostrar imagen
+
 </div>
+👋 ¿Primera vez en GitHub? Empezá por acá
+No hace falta saber programar para arrancar. Seguí estos 4 pasos en orden:
 
----
+Paso	Qué hacés	Para qué sirve
+1	Crear tu cuenta en github.com	Es tu usuario: ahí queda guardado tu trabajo
+2	Entrar a tu equipo y abrir el repositorio que te pasaron	Un repositorio es una carpeta en internet con todo el historial de cambios
+3	Descargarlo en tu compu (clonar) y abrirlo con VS Code	Así trabajás con los archivos reales
+4	Guardar tus cambios y subirlos (commit + push)	Tu equipo ve lo que hiciste
+💡 ¿Te trabaste? Preguntá en el grupo de WhatsApp o en clase. Nadie nació sabiendo.
 
-Bienvenidos al repositorio oficial de la materia **Desarrollo Web**. Este espacio está destinado a alojar todos los proyectos, ejercicios y materiales de código que serán utilizados a lo largo del curso. Aquí aprenderás y practicarás con tecnologías esenciales en el desarrollo web, incluyendo HTML, CSS, JavaScript y Node.js.
+Palabras que vas a escuchar
+Palabra	Quiere decir
+Repositorio	Una carpeta de proyecto con todo su historial
+Commit	Una "foto" de tus cambios, con un mensaje que dice qué hiciste
+Push	Subir tus commits a GitHub
+Pull	Bajar lo que hicieron los demás
+Branch (rama)	Una copia paralela para probar cosas sin romper lo que funciona
+📂 Qué vas a encontrar en esta organización
+Tecnología	Para qué la usamos
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5">	Estructura: cómo se arma una página web
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3">	Estilos: colores, tipografías y diseño
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="45" alt="JavaScript">	Lógica: que la página responda a lo que hace el usuario
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="45" alt="Node.js">	Backend: el servidor que está detrás de la página
+🎯 El trabajo de la materia: el TIF
+Un comercio local real, en tres etapas:
 
-## 📂 Recursos de la materia
-
-Dentro de este repositorio, encontrarás los siguientes recursos:
-
-| Tecnología | Descripción |
-| :---: | :--- |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="45" alt="HTML5"> | **Estructura:** Archivos y ejemplos para aprender a crear la estructura básica de páginas web. |
-| <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="45" alt="CSS3"> | **Estilos:** Recursos para la estilización y presentación visual de sitios web. |
-| <img src="https://static.vecteezy.com/system/resources/previews/027/127/463/original/javascript-logo-javascript-icon-transparent-free-png.png" width="45" alt="JavaScript"> | **Lógica:** Ejercicios para manejar la lógica de programación y la interactividad en las páginas web. |
-| <img src="https://hazelcast.com/wp-content/uploads/2021/12/node2.png" width="55" alt="Node.js"> | **Backend:** Proyectos orientados a entender el uso de JavaScript en el backend, permitiendo la creación de aplicaciones del lado del servidor. |
-
-## 👥 Equipo y Redes Sociales
-
-| Nombre | Redes de Contacto |
-| :--- | :--- |
-| **Matias Rios** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/matiaserios) [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://instagram.com/matidesarrolla) |
-| **Sebastian Saban** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/sebastian-saban-97b21524b)  |
-| **Valentina Diaz Villalba** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/valentina-diaz-25778b287)  |
-| **Ezequiel Taboada** | [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ezequiel-taboada) |
-
-## 💻 Stack Tecnológico y Herramientas
-
-<div align="center">
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3">
-  <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS">
-  <img src="https://img.shields.io/badge/NPM-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="NPM">
-  <br>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <img src="https://img.shields.io/badge/GitHub_Pages-121013?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages">
-  <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VSCode">
-  <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira">
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white" alt="Netlify">
-</div>
-
-## 🔗 Links Importantes
-
-* 🎓 [Campus Virtual UNPAZ](https://campusvirtual.unpaz.edu.ar/course/view.php?id=17289&section=9#tabs-tree-start)
-* 📚 [Comandos Básicos para GitHub (Git)](https://imgv2-2-f.scribdassets.com/img/document/383529506/original/5e95e0c9e8/1717779687?v=1)
-
-## 🛠️ Flujo de Ejemplo
-
-```mermaid
-sequenceDiagram
-    Alice->>Bob: Hello Bob, how are you?
-    Note right of Bob: Bob thinks
-    Bob-->>Alice: I am good thanks!
+Brief: entender el negocio y qué necesita.
+Sitio institucional: la web del comercio, partiendo de un sitio base.
+E-commerce colaborativo: trabajo en equipo con Git y Jira.
+👥 Equipo docente
+Nombre	Contacto
+Matías Ríos (profesor)	LinkedIn Instagram
+Sebastián Saban (ayudante)	LinkedIn
+Valentina Diaz Villalba (ayudante)	LinkedIn
+Ezequiel Taboada (ayudante)	LinkedIn
+💻 Herramientas
+<div align="center"> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5"> <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3"> <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript"> <img src="https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js"> <br> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"> <img src="https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="VS Code"> <img src="https://img.shields.io/badge/Jira-0052CC?style=for-the-badge&logo=jira&logoColor=white" alt="Jira"> </div>
+🔗 Links importantes
+🎓 Aula virtual de la materia en el Campus UNPAZ
+📚 Comandos básicos de Git
